@@ -5,5 +5,5 @@
 Learn How **Deep Learning** Libraries Works.
 
 
-L
+
 Learn how **Deep Learning** Uses on Image Data.
