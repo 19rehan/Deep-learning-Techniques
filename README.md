@@ -6,8 +6,6 @@
 
 
 
-
-
 Learn How **Deep Learning** Libraries Works.
 
 
